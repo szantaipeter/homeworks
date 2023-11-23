@@ -1,4 +1,4 @@
-public class IsValid {
+public class NumberValidator {
     public boolean isValid(int given_Number){
         if(given_Number > 2_000_000_000 || given_Number  < 2){
             System.out.println("Try again" );

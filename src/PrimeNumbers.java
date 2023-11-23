@@ -1,6 +1,6 @@
 public class PrimeNumbers {
 
-    static void prime_Lister(int given_Number)
+    static void primeLister(int given_Number)
     {
         int p, s, flag;
 
